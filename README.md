@@ -1,2 +1,2 @@
-# learning javascript
+# learning javascript concept
 
