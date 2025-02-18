@@ -1,7 +1,6 @@
 const accountId = 144553  // once you assign value to const you can't change it
 let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
-
 let accountState;
 
 console.log(accountId);
